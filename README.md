@@ -1,4 +1,4 @@
-Welcome to the Klipper project!
+Welcome to the Adventurer5M Adventurer5MPro Klipper project!
 
 [![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
 
